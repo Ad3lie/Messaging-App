@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188585654321",
+    "project_id": "vibezchat-efa98",
+    "storage_bucket": "vibezchat-efa98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188585654321:android:59d9b6cc405d9c1996bd10",
+        "android_client_info": {
+          "package_name": "com.Vibez.VibezChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188585654321-gteqqja8ikvoch0fkolocl5km33f9j3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_azEyHrNs49vpbGJkEPzNZMTEFT-Q0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188585654321-gteqqja8ikvoch0fkolocl5km33f9j3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
